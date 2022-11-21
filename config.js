@@ -469,11 +469,11 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'FangzXD'
-global.umurowner = '15'
-global.asalowner = 'Yogyakarta, Jawa tengah'
-global.nomorowner = 'wa.me/6288215689772'
-global.pacarowner = 'Ga ada pacar'
+global.nameowner = 'satria'
+global.umurowner = '17'
+global.asalowner = 'Binjai, Medan'
+global.nomorowner = 'wa.me/855388410032'
+global.pacarowner = 'nayla cantii'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
 global.dmenut = 'ଓ═┅═━–〈' //top
@@ -503,9 +503,9 @@ global.fsizedoc = '1'.repeat(10)
 global.fpagedoc = '1'.repeat(10)
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'YT: FangzXD'
-global.stickauth = `© Fangz BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By FangzXD'
+global.stickpack = 'YT: FANNZ ID'
+global.stickauth = `© satria naylaa\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.packname = 'By satria?'
 
 
 global.multiplier = 38 // The higher, The harder levelup
